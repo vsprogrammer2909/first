@@ -22,3 +22,14 @@ class Input1
         System.out.println(n);
     }
 }
+
+class Pattern
+{
+    public static void main(String args[])
+    {
+        int s=90;
+        System.out.println(s);
+        g=s+1;
+        System.out.println(g);
+    }
+}
