@@ -29,7 +29,7 @@ class Pattern
     {
         int s=90;
         System.out.println(s);
-        g=s+1;
+        int g=s+1;
         System.out.println(g);
     }
 }
