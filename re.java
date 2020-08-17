@@ -31,5 +31,6 @@ class Pattern
         System.out.println(s);
         int g=s+1;
         System.out.println(g);
+        String m="I am a boy";
     }
 }
