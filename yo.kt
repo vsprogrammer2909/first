@@ -8,6 +8,6 @@ fun main(args: Array<String>)
 	}
 	else
 	{
-		println("you can play");
+		println("you can  chess");
 	}
 }
